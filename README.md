@@ -1,16 +1,10 @@
 # mi_card
 
-This is the First Project I am making with the help of Flutter Course of Udemy
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is the First App I am making with the help of Flutter Course on Udemy.
+- In this App I have made a Mi Card which is a virtual card that tells the user about a specific person's details like Person's Image, Name, Occupation, Phone Number, Email.
+- In this App, I have used both:
+  - Naive Approach i.e using `Container` Widget, and 
+  - Obvious Approach i.e using `Card` Widget
+- Here's how the app looks like.
+<br><br>
+![Mi Card](images/output.jpg)
